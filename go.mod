@@ -1,4 +1,4 @@
-module github.com/daoio/find-opcode
+module github.com/daoio/evm-opcode-finder
 
 go 1.19
 
