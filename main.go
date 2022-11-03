@@ -5,7 +5,7 @@ import (
 	
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/daoio/find-opcode/finder"
+	"github.com/daoio/evm-opcode-finder/finder"
 )
 
 const URL = "YOUR_URL"
